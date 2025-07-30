@@ -1,0 +1,28 @@
+# Use an official Python image as the base
+FROM python:3.9-slim
+
+# Set the working directory inside the container
+WORKDIR /app
+
+# Update the package list and install LaTeX dependencies
+# This is the crucial step that installs 'pdflatex'
+RUN apt-get update && apt-get install -y \
+    texlive-latex-base \
+    texlive-latex-extra \
+    texlive-fonts-recommended \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copy your requirements file
+COPY requirements.txt .
+
+# Install the Python libraries
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy the rest of your app's code
+COPY . .
+
+# Tell Render that your app runs on port 8501
+EXPOSE 8501
+
+# The command to run your Streamlit app
+CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.enableCORS=false"]
