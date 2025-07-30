@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.6.26)  30 JUL 2025 14:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.6.26)  30 JUL 2025 16:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1286,6 +1286,24 @@ LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
 (Font)              using `T1/cmr/bx/sc' instead on input line 142.
 
 
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.143 \item A
+              recent graduate in Integrated M.S in Mathematics and Computing...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 143
+[][]
+ []
+
+
 LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
 (Font)              using `T1/cmr/bx/sc' instead on input line 144.
 
@@ -1331,11 +1349,11 @@ ankar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cfr-lm/t1-clm.enc}{C:/Users
 /Hemant Shankar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
 
 LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
-(Font)              using `T1/cmr/bx/sc' instead on input line 265.
+(Font)              using `T1/cmr/bx/sc' instead on input line 271.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
-(Font)              using `T1/cmr/bx/sc' instead on input line 281.
+(Font)              using `T1/cmr/bx/sc' instead on input line 287.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -1350,7 +1368,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.308 \end{document}
+l.314 \end{document}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1369,13 +1387,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 ### semi simple group (level 1) entered at line 160 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 33238 strings out of 474486
- 680921 string characters out of 5739471
+ 33239 strings out of 474486
+ 680949 string characters out of 5739471
  1957542 words of memory out of 5000000
- 54945 multiletter control sequences out of 15000+600000
+ 54946 multiletter control sequences out of 15000+600000
  599597 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 93i,11n,99p,1245b,710s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,12n,99p,1245b,787s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Hemant Shankar\AppData\Local\MiKTeX\fonts/pk/ljfour/
 jknappen/ec/dpi600\ecti1000.pk> <C:\Users\Hemant Shankar\AppData\Local\MiKTeX\f
 onts/pk/ljfour/jknappen/ec/dpi600\ecrb1000.pk> <C:\Users\Hemant Shankar\AppData
@@ -1396,9 +1414,9 @@ me5Free-Solid.pfb><C:/Users/Hemant Shankar/AppData/Local/Programs/MiKTeX/fonts/
 type1/public/lm/lmbx10.pfb><C:/Users/Hemant Shankar/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Hemant Shankar/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/lm/lmsy6.pfb>
-Output written on main.pdf (2 pages, 167938 bytes).
+Output written on main.pdf (2 pages, 169536 bytes).
 PDF statistics:
- 518 PDF objects out of 1000 (max. 8388607)
+ 523 PDF objects out of 1000 (max. 8388607)
  10 named destinations out of 1000 (max. 500000)
  213 words of extra memory for PDF output out of 10000 (max. 10000000)
 

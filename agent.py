@@ -35,18 +35,17 @@ def rewrite_section(jd_text, section_name, current_text):
         "Try to keep the resume in a single page"
         "✅ Do not rewrite or reformat existing content — just insert missing technologies/tools smartly into the correct line or as a new line in the same LaTeX style.\n"
         "⚠️ Return only the valid LaTeX content inside an existing itemize or list environment (e.g., \\begin{itemize}). Do not introduce free text or section headers.\n"
+        # "⚠️ Return only the new LaTeX-formatted body content, ready to be inserted.\n"
     )
 
-    # Use the new client.chat.completions.create method
     response = client.chat.completions.create(
-        model="gpt-4",
+        model="gpt-3.5-turbo-0125",
         messages=[
-            {"role": "system", "content": "You are a LaTeX-aware resume assistant. Always maintain proper LaTeX formatting and environments."},
-            {"role": "user", "content": prompt}
-        ]
+    {"role": "system", "content": "You are a LaTeX-aware resume assistant. Always maintain proper LaTeX formatting and environments."},
+    {"role": "user", "content": prompt}
+]
     )
 
-    # Use the new dot notation to access the response content
     return response.choices[0].message.content.strip()
 
 
@@ -60,13 +59,16 @@ def write_file(filepath, content):
 
 def compile_latex(tex_file):
     compile_cmd = ["pdflatex", "-interaction=nonstopmode", tex_file]
-    subprocess.run(compile_cmd, stdout=subprocess.DEVNULL)
-    subprocess.run(compile_cmd, stdout=subprocess.DEVNULL)
+    result = subprocess.run(compile_cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+    
     if os.path.exists(TEMP_PDF):
         os.makedirs("output", exist_ok=True)
         os.replace(TEMP_PDF, OUTPUT_PDF)
         return True
-    return False
+    else:
+        print("🚨 LaTeX Error:\n", result.stdout)
+        return False
+
 
 def find_and_replace_section(tex, section_title, new_body):
     pattern = re.compile(
@@ -79,10 +81,22 @@ def find_and_replace_section(tex, section_title, new_body):
     
     return pattern.sub(replacer, tex)
 
+def extract_section(tex, section_title):
+    pattern = re.compile(
+        rf"\\section{{\\textbf{{{re.escape(section_title)}}}}}(.*?)(?=\\section{{\\textbf|\\end{{document}})",
+        re.DOTALL
+    )
+    match = pattern.search(tex)
+    return match.group(1).strip() if match else ""
+
+
 def run_agent(tex_path, jd_text):
     tex = read_file(tex_path)
-    updated_summary = rewrite_section(jd_text, "Professional Summary", "")
-    updated_skills = rewrite_section(jd_text, "Technical Skills and Interests", "")
+    existing_summary = extract_section(tex, "Professional Summary")
+    updated_summary = rewrite_section(jd_text, "Professional Summary", existing_summary)
+    existing_skills = extract_section(tex, "Technical Skills and Interests")
+    updated_skills = rewrite_section(jd_text, "Technical Skills and Interests", existing_skills)
+
 
     tex = find_and_replace_section(tex, "Professional Summary", updated_summary)
     tex = find_and_replace_section(tex, "Technical Skills and Interests", updated_skills)
