@@ -35,18 +35,19 @@ def rewrite_section(jd_text, section_name, current_text):
         "Try to keep the resume in a single page"
         "✅ Do not rewrite or reformat existing content — just insert missing technologies/tools smartly into the correct line or as a new line in the same LaTeX style.\n"
         "⚠️ Return only the valid LaTeX content inside an existing itemize or list environment (e.g., \\begin{itemize}). Do not introduce free text or section headers.\n"
-        # "⚠️ Return only the new LaTeX-formatted body content, ready to be inserted.\n"
     )
 
+    # Use the new client.chat.completions.create method
     response = client.chat.completions.create(
         model="gpt-4",
         messages=[
-    {"role": "system", "content": "You are a LaTeX-aware resume assistant. Always maintain proper LaTeX formatting and environments."},
-    {"role": "user", "content": prompt}
-]
+            {"role": "system", "content": "You are a LaTeX-aware resume assistant. Always maintain proper LaTeX formatting and environments."},
+            {"role": "user", "content": prompt}
+        ]
     )
 
-    return response['choices'][0]['message']['content'].strip()
+    # Use the new dot notation to access the response content
+    return response.choices[0].message.content.strip()
 
 
 def read_file(filepath):
