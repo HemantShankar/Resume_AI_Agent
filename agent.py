@@ -1,6 +1,6 @@
 import os
 import subprocess
-import openai
+from openai import OpenAI
 import re
 from dotenv import load_dotenv
 
@@ -14,7 +14,7 @@ api_key = os.environ.get("OPENAI_API_KEY")
 if not api_key:
     raise ValueError("OpenAI API key not found. Please set the OPENAI_API_KEY environment variable.")
 
-openai.api_key = api_key
+client = OpenAI(api_key=api_key)
 
 
 OUTPUT_PDF = "output/resume_targeted.pdf"
@@ -38,7 +38,7 @@ def rewrite_section(jd_text, section_name, current_text):
         # "⚠️ Return only the new LaTeX-formatted body content, ready to be inserted.\n"
     )
 
-    response = openai.ChatCompletion.create(
+    response = client.chat.completions.create(
         model="gpt-4",
         messages=[
     {"role": "system", "content": "You are a LaTeX-aware resume assistant. Always maintain proper LaTeX formatting and environments."},

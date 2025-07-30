@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.6.26)  23 JUL 2025 21:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.6.26)  30 JUL 2025 13:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1285,70 +1285,26 @@ fontawesomefree2.fd)
 LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
 (Font)              using `T1/cmr/bx/sc' instead on input line 142.
 
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 144.
-! Undefined control sequence.
-<recently read> \pythontools 
-                             
-l.144 ...tem \textbf{Technical Skills}\pythontools
-                                                   : Python, Pyspark, SQL, D...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \interskills 
-                             
-l.145 ...\textbf{Interpersonal Skills}\interskills
-                                                   : Problem-solving, Critic...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \knowledge 
-                           
-l.146     \item \textbf{Knowledge}\knowledge
-                                             : Consumer Product Data, Retail...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \addskills 
-                           
-l.147 ...item \textbf{Additional Skills}\addskills
-                                                   : Attention to detail, Ac...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 
 LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
-(Font)              using `T1/cmr/bx/sc' instead on input line 149.
+(Font)              using `T1/cmr/bx/sc' instead on input line 144.
 
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 145.
 
 LaTeX Font Warning: Font shape `T1/cmr/b/it' undefined
-(Font)              using `T1/cmr/bx/it' instead on input line 153.
+(Font)              using `T1/cmr/bx/it' instead on input line 148.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
-(Font)              using `T1/cmr/bx/sc' instead on input line 165.
+(Font)              using `T1/cmr/bx/sc' instead on input line 159.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
-(Font)              using `T1/cmr/bx/sc' instead on input line 191.
+(Font)              using `T1/cmr/bx/sc' instead on input line 184.
 
 LaTeX Font Info:    Trying to load font information for TS1+clm2j on input line
- 199.
+ 192.
 
 (C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/cfr-lm\ts1clm2
 j.fd
@@ -1356,7 +1312,11 @@ File: ts1clm2j.fd 2025/02/11 Fontinst v1.933 font definitions for TS1/clm2j.
 )
 
 LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
-(Font)              using `T1/cmr/bx/sc' instead on input line 260.
+(Font)              using `T1/cmr/bx/sc' instead on input line 257.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
+(Font)              using `T1/cmr/bx/sc' instead on input line 259.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -1375,11 +1335,7 @@ ankar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cfr-lm/t1-clm.enc}{C:/Users
 /Hemant Shankar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
 
 LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
-(Font)              using `T1/cmr/bx/sc' instead on input line 269.
-
-
-LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
-(Font)              using `T1/cmr/bx/sc' instead on input line 285.
+(Font)              using `T1/cmr/bx/sc' instead on input line 275.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -1388,13 +1344,13 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [2]
 
-! LaTeX Error: \begin{itemize} on input line 166 ended by \end{document}.
+! LaTeX Error: \begin{itemize} on input line 160 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.312 \end{document}
+l.302 \end{document}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1410,16 +1366,16 @@ Package rerunfilecheck Info: File `main.out' has not changed.
  )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 166 (\begingroup)
+### semi simple group (level 1) entered at line 160 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 33242 strings out of 474486
- 680961 string characters out of 5739471
- 1957542 words of memory out of 5000000
- 54949 multiletter control sequences out of 15000+600000
+ 33238 strings out of 474486
+ 680921 string characters out of 5739471
+ 1958542 words of memory out of 5000000
+ 54945 multiletter control sequences out of 15000+600000
  599597 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 93i,11n,99p,1245b,712s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,11n,99p,1245b,748s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Hemant Shankar\AppData\Local\MiKTeX\fonts/pk/ljfour/
 jknappen/ec/dpi600\ecti1000.pk> <C:\Users\Hemant Shankar\AppData\Local\MiKTeX\f
 onts/pk/ljfour/jknappen/ec/dpi600\ecrb1000.pk> <C:\Users\Hemant Shankar\AppData
@@ -1440,9 +1396,9 @@ me5Free-Solid.pfb><C:/Users/Hemant Shankar/AppData/Local/Programs/MiKTeX/fonts/
 type1/public/lm/lmbx10.pfb><C:/Users/Hemant Shankar/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Hemant Shankar/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/lm/lmsy6.pfb>
-Output written on main.pdf (2 pages, 168781 bytes).
+Output written on main.pdf (2 pages, 164097 bytes).
 PDF statistics:
- 523 PDF objects out of 1000 (max. 8388607)
+ 508 PDF objects out of 1000 (max. 8388607)
  10 named destinations out of 1000 (max. 500000)
  213 words of extra memory for PDF output out of 10000 (max. 10000000)
 
