@@ -1,0 +1,511 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/base\article.c
+ls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.cl
+o))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/base\latexsym.
+sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.
+sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\c
+olor.cfg)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\p
+dftex.def)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathc
+olor.ltx))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/float\float.st
+y)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragge
+d2e.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/preprint\fullp
+age.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfi
+g.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.
+sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3k
+eys2e\l3keys2e.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3
+.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3ba
+ckend-pdftex.def)))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.
+ltd.tex))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx
+.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.st
+y))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\title
+sec.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geome
+try.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyva
+l.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex
+.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.
+sty))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geome
+try.cfg))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/marvosym\marvo
+sym.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim
+.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumi
+tem.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyper
+ref.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\in
+fwarerr.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvse
+tkeys.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys
+\kvdefinekeys.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pd
+fescape.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxc
+mds.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\p
+dftexcmds.sty))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolo
+r.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\le
+tltxmacro.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhoo
+k.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\namer
+ef.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refco
+unt.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestri
+ng\gettitlestring.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvop
+tions.sty)))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etool
+box.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1en
+c.def)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intc
+alc.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc
+.def)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitse
+t.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\b
+igintcalc.sty))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-
+ltx.sty))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdft
+ex.def
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend
+-ltx.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck
+\rerunfilecheck.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounte
+r\uniquecounter.sty)))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancy
+hdr.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\f
+ontawesome5.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xpa
+rse\xparse.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\f
+ontawesome5-generic-helper.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\f
+ontawesome5-mapping.def)))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol
+.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graph
+icx.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graph
+ics.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.
+sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\g
+raphics.cfg)))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/cfr-lm\cfr-lm.
+sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/svn-prov\svn-p
+rov.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.s
+ty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/nfssext-cfr\nf
+ssext-cfr.sty))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.s
+ty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/cfr-lm\t1clm2j
+.fd))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcol
+orbox.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer
+\pgf.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\
+pgfrcs.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfutil-common.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfutil-latex.def)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfrcs.code.tex
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revi
+sion.tex)))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer
+\pgfcore.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlaye
+r\pgfsys.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemla
+yer\pgfsys.code.tex
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfkeys.code.tex
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfkeyslibraryfiltered.code.tex))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemla
+yer\pgf.cfg)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemla
+yer\pgfsys-pdftex.def
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemla
+yer\pgfsys-common-pdf.def)))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemla
+yer\pgfsyssoftpath.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemla
+yer\pgfsysprotocol.code.tex))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcore.code.tex
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+math.code.tex
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathutil.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathparser.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.basic.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.trigonometric.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.random.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.comparison.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.base.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.round.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.misc.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.integerarithmetics.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathcalc.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfloat.code.tex))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+int.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorepoints.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorepathconstruct.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorepathusage.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorescopes.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoregraphicstate.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoretransformations.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorequick.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoreobjects.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorepathprocessing.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorearrows.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoreshade.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoreimage.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoreexternal.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorelayers.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoretransparency.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorepatterns.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorerdf.code.tex)))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\
+pgfmoduleshapes.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\
+pgfmoduleplot.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibil
+ity\pgfcomp-version-0-65.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibil
+ity\pgfcomp-version-1-18.sty))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/environ\enviro
+n.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\tri
+mspaces.sty))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbr
+aster.code.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '6.2.0'
+)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbs
+kins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.2.0'
+
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendla
+yer\tikz.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\
+pgffor.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\
+pgfkeys.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfkeys.code.tex))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfma
+th.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+math.code.tex))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgffor.code.tex))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontend
+layer/tikz\tikz.code.tex
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librarie
+s\pgflibraryplothandlers.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\
+pgfmodulematrix.code.tex)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontend
+layer/tikz/libraries\tikzlibrarytopaths.code.tex)))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzf
+ill.image.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzf
+ill-common.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzl
+ibraryfill.image.code.tex))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbs
+kinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.2.0'
+))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbb
+reakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.2.0'
+
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/pdfcol\pdfcol.
+sty))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbh
+ooks.code.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '6.2.0'
+)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbt
+heorems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '6.2.0'
+
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmat
+h.sty
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstex
+t.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen
+.sty))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy
+.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn
+.sty)))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbf
+itting.code.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '6.2.0'
+)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbl
+istingsutf8.code.tex
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.2.0'
+
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbl
+istings.code.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '6.2.0'
+
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/listings\listi
+ngs.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmi
+sc.sty)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/listings\listi
+ngs.cfg))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbl
+istingscore.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '6.2.0'
+
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbp
+rocessing.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '6.2.0'
+)))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/listingsutf8\l
+istingsutf8.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\st
+ringenc.sty)))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbe
+xternal.code.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '6.2.0'
+)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbm
+agazine.code.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '6.2.0'
+)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbv
+ignette.code.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '6.2.0'
+
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontend
+layer/tikz/libraries\tikzlibraryfadings.code.tex
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librarie
+s\pgflibraryfadings.code.tex)))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbp
+oster.code.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '6.2.0'
+))
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/nfssext-cfr\nf
+ssext-cfr-nnfss.sty
+
+Package nfssext-cfr Warning: Patching font initialisation macro for serif. on i
+nput line 700.
+
+
+Package nfssext-cfr Warning: Patching font initialisation macro for sans. on in
+put line 709.
+
+
+Package nfssext-cfr Warning: Patching font initialisation macro for typewriter.
+ on input line 718.
+
+) (main.aux)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd)
+
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\su
+pp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\e
+pstopdf-base.sty
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epsto
+pdf-sys.cfg))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(main.out) (main.out)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.
+sty)
+
+Package nfssext-cfr Warning: Overwriting kernel definition of \swshape  (new) o
+n input line 129.
+
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd)
+
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\u
+fontawesomefree1.fd)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\u
+fontawesomebrands0.fd)
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\u
+fontawesomefree2.fd)
+
+LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
+(Font)              using `T1/cmr/bx/sc' instead on input line 142.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
+(Font)              using `T1/cmr/bx/sc' instead on input line 147.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/b/it' undefined
+(Font)              using `T1/cmr/bx/it' instead on input line 151.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
+(Font)              using `T1/cmr/bx/sc' instead on input line 163.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
+(Font)              using `T1/cmr/bx/sc' instead on input line 189.
+
+
+(C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/cfr-lm\ts1clm2
+j.fd)
+
+LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
+(Font)              using `T1/cmr/bx/sc' instead on input line 258.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
+(Font)              using `T1/cmr/bx/sc' instead on input line 274.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 4.08003pt, for example:
+(fancyhdr)                \setlength{\footskip}{4.08003pt}.
+
+[1{C:/Users/Hemant Shankar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:
+/Users/Hemant Shankar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome
+5/fa5free1.enc}{C:/Users/Hemant Shankar/AppData/Local/Programs/MiKTeX/fonts/enc
+/dvips/fontawesome5/fa5brands0.enc}{C:/Users/Hemant Shankar/AppData/Local/Progr
+ams/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/Hemant Shankar/A
+ppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/Hemant 
+Shankar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cfr-lm/t1-clm.enc}{C:/Use
+rs/Hemant Shankar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
+
+
+LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
+(Font)              using `T1/cmr/bx/sc' instead on input line 290.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 4.08003pt, for example:
+(fancyhdr)                \setlength{\footskip}{4.08003pt}.
+
+[2]
+
+! LaTeX Error: \begin{itemize} on input line 164 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.317 \end{document}
+                    
+(main.aux) )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 164 (\begingroup)
+### bottom level
+(see the transcript file for additional information) <C:\Users\Hemant Shankar\A
+ppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\H
+emant Shankar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrb0900.
+pk> <C:\Users\Hemant Shankar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
+pi600\ecrm0900.pk> <C:\Users\Hemant Shankar\AppData\Local\MiKTeX\fonts/pk/ljfou
+r/jknappen/ec/dpi600\ecbi0900.pk> <C:\Users\Hemant Shankar\AppData\Local\MiKTeX
+\fonts/pk/ljfour/jknappen/ec/dpi600\ecti0900.pk> <C:\Users\Hemant Shankar\AppDa
+ta\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrb1000.pk> <C:\Users\Heman
+t Shankar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> 
+<C:\Users\Hemant Shankar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecxc1200.pk> <C:\Users\Hemant Shankar\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
+nappen/ec/dpi600\ecrm1095.pk> <C:\Users\Hemant Shankar\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecrb1440.pk><C:/Users/Hemant Shankar/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.
+pfb><C:/Users/Hemant Shankar/AppData/Local/Programs/MiKTeX/fonts/type1/public/f
+ontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/Hemant Shankar/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Hemant Shankar/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Hemant Shanka
+r/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb>
+Output written on main.pdf (2 pages, 149942 bytes).
+Transcript written on main.log.
+
+pdflatex: major issue: So far, no MiKTeX administrator has checked for updates.

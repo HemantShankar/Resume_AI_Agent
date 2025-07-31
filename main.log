@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.6.26)  30 JUL 2025 16:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.6.26)  31 JUL 2025 12:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1286,43 +1286,29 @@ LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
 (Font)              using `T1/cmr/bx/sc' instead on input line 142.
 
 
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.143 \item A
-              recent graduate in Integrated M.S in Mathematics and Computing...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 143
-[][]
- []
-
-
 LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
-(Font)              using `T1/cmr/bx/sc' instead on input line 144.
+(Font)              using `T1/cmr/bx/sc' instead on input line 147.
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 145.
+(Font)              <10> on input line 148.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 148.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 148.
 
 LaTeX Font Warning: Font shape `T1/cmr/b/it' undefined
-(Font)              using `T1/cmr/bx/it' instead on input line 148.
+(Font)              using `T1/cmr/bx/it' instead on input line 151.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
-(Font)              using `T1/cmr/bx/sc' instead on input line 159.
+(Font)              using `T1/cmr/bx/sc' instead on input line 163.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
-(Font)              using `T1/cmr/bx/sc' instead on input line 184.
+(Font)              using `T1/cmr/bx/sc' instead on input line 189.
 
 LaTeX Font Info:    Trying to load font information for TS1+clm2j on input line
- 192.
+ 197.
 
 (C:\Users\Hemant Shankar\AppData\Local\Programs\MiKTeX\tex/latex/cfr-lm\ts1clm2
 j.fd
@@ -1330,7 +1316,11 @@ File: ts1clm2j.fd 2025/02/11 Fontinst v1.933 font definitions for TS1/clm2j.
 )
 
 LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
-(Font)              using `T1/cmr/bx/sc' instead on input line 257.
+(Font)              using `T1/cmr/bx/sc' instead on input line 258.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
+(Font)              using `T1/cmr/bx/sc' instead on input line 274.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -1349,11 +1339,7 @@ ankar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cfr-lm/t1-clm.enc}{C:/Users
 /Hemant Shankar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
 
 LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
-(Font)              using `T1/cmr/bx/sc' instead on input line 271.
-
-
-LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
-(Font)              using `T1/cmr/bx/sc' instead on input line 287.
+(Font)              using `T1/cmr/bx/sc' instead on input line 290.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -1362,13 +1348,13 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [2]
 
-! LaTeX Error: \begin{itemize} on input line 160 ended by \end{document}.
+! LaTeX Error: \begin{itemize} on input line 164 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.314 \end{document}
+l.317 \end{document}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1384,39 +1370,38 @@ Package rerunfilecheck Info: File `main.out' has not changed.
  )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 160 (\begingroup)
+### semi simple group (level 1) entered at line 164 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 33239 strings out of 474486
- 680949 string characters out of 5739471
- 1957542 words of memory out of 5000000
- 54946 multiletter control sequences out of 15000+600000
- 599597 words of font info for 81 fonts, out of 8000000 for 9000
+ 33250 strings out of 474486
+ 681069 string characters out of 5739471
+ 1959542 words of memory out of 5000000
+ 54955 multiletter control sequences out of 15000+600000
+ 603202 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 93i,12n,99p,1245b,787s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,11n,99p,1245b,925s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Hemant Shankar\AppData\Local\MiKTeX\fonts/pk/ljfour/
 jknappen/ec/dpi600\ecti1000.pk> <C:\Users\Hemant Shankar\AppData\Local\MiKTeX\f
-onts/pk/ljfour/jknappen/ec/dpi600\ecrb1000.pk> <C:\Users\Hemant Shankar\AppData
-\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Hemant 
-Shankar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrb0900.pk> <C
+onts/pk/ljfour/jknappen/ec/dpi600\ecrb0900.pk> <C:\Users\Hemant Shankar\AppData
+\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\Hemant 
+Shankar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi0900.pk> <C
 :\Users\Hemant Shankar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
-ecrm0900.pk> <C:\Users\Hemant Shankar\AppData\Local\MiKTeX\fonts/pk/ljfour/jkna
-ppen/ec/dpi600\ecbi0900.pk> <C:\Users\Hemant Shankar\AppData\Local\MiKTeX\fonts
-/pk/ljfour/jknappen/ec/dpi600\ecti0900.pk> <C:\Users\Hemant Shankar\AppData\Loc
-al\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrb1095.pk> <C:\Users\Hemant Shan
-kar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecxc1200.pk> <C:\Us
-ers\Hemant Shankar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm
-1095.pk> <C:\Users\Hemant Shankar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
-/ec/dpi600\ecrb1440.pk><C:/Users/Hemant Shankar/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/Hemant 
-Shankar/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAweso
-me5Free-Solid.pfb><C:/Users/Hemant Shankar/AppData/Local/Programs/MiKTeX/fonts/
-type1/public/lm/lmbx10.pfb><C:/Users/Hemant Shankar/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Hemant Shankar/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/lm/lmsy6.pfb>
-Output written on main.pdf (2 pages, 169536 bytes).
+ecti0900.pk> <C:\Users\Hemant Shankar\AppData\Local\MiKTeX\fonts/pk/ljfour/jkna
+ppen/ec/dpi600\ecrb1000.pk> <C:\Users\Hemant Shankar\AppData\Local\MiKTeX\fonts
+/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Hemant Shankar\AppData\Loc
+al\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecxc1200.pk> <C:\Users\Hemant Shan
+kar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Us
+ers\Hemant Shankar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrb
+1440.pk><C:/Users/Hemant Shankar/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/Hemant Shankar/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.p
+fb><C:/Users/Hemant Shankar/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm
+/lmbx10.pfb><C:/Users/Hemant Shankar/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/lm/lmr10.pfb><C:/Users/Hemant Shankar/AppData/Local/Programs/MiKTeX/font
+s/type1/public/lm/lmsy6.pfb>
+Output written on main.pdf (2 pages, 149942 bytes).
 PDF statistics:
- 523 PDF objects out of 1000 (max. 8388607)
+ 462 PDF objects out of 1000 (max. 8388607)
  10 named destinations out of 1000 (max. 500000)
  213 words of extra memory for PDF output out of 10000 (max. 10000000)
 
